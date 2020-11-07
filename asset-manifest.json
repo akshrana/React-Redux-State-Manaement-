@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Redux-State-Manaement-/static/css/main.cec5c211.chunk.css",
+    "main.js": "/React-Redux-State-Manaement-/static/js/main.67cf23ed.chunk.js",
+    "main.js.map": "/React-Redux-State-Manaement-/static/js/main.67cf23ed.chunk.js.map",
+    "runtime-main.js": "/React-Redux-State-Manaement-/static/js/runtime-main.bb3ef02a.js",
+    "runtime-main.js.map": "/React-Redux-State-Manaement-/static/js/runtime-main.bb3ef02a.js.map",
+    "static/js/2.be0cf109.chunk.js": "/React-Redux-State-Manaement-/static/js/2.be0cf109.chunk.js",
+    "static/js/2.be0cf109.chunk.js.map": "/React-Redux-State-Manaement-/static/js/2.be0cf109.chunk.js.map",
+    "static/js/3.3cf52bfb.chunk.js": "/React-Redux-State-Manaement-/static/js/3.3cf52bfb.chunk.js",
+    "static/js/3.3cf52bfb.chunk.js.map": "/React-Redux-State-Manaement-/static/js/3.3cf52bfb.chunk.js.map",
+    "index.html": "/React-Redux-State-Manaement-/index.html",
+    "static/css/main.cec5c211.chunk.css.map": "/React-Redux-State-Manaement-/static/css/main.cec5c211.chunk.css.map",
+    "static/js/2.be0cf109.chunk.js.LICENSE.txt": "/React-Redux-State-Manaement-/static/js/2.be0cf109.chunk.js.LICENSE.txt",
+    "static/media/Capg logo.9dd96ef7.png": "/React-Redux-State-Manaement-/static/media/Capg logo.9dd96ef7.png",
+    "static/media/VA.e9551734.jpg": "/React-Redux-State-Manaement-/static/media/VA.e9551734.jpg",
+    "static/media/logo.103b5fa1.svg": "/React-Redux-State-Manaement-/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3ef02a.js",
+    "static/js/2.be0cf109.chunk.js",
+    "static/css/main.cec5c211.chunk.css",
+    "static/js/main.67cf23ed.chunk.js"
+  ]
+}
